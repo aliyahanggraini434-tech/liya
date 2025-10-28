@@ -13,7 +13,7 @@ body {
 .container {
    position: fixed;
   text-align: center;
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(#FF8DA1);
   padding: 30px 40px;
   border-radius: 20px;
   box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
@@ -47,7 +47,7 @@ body {
 }
 
 Button {
-  background: #0000ff;
+  background: ##FF0000;
   border: none;
   padding: 12px 25px;
   border-radius: 25px;
